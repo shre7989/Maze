@@ -1,7 +1,7 @@
 /**
  * @project - Maze
  * @course - CS351
- * @group - 2
+ * @author - Mausam Shrestha
  */
 package maze;
 
