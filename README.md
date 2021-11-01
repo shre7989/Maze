@@ -24,15 +24,15 @@
         visited.
 
 2. Randomized Kruskal's algorithm
-       - Kruskal's Maze Generator is a randomized version of Kruskal’s algorithm: a method for producing a minimal spanning tree for a weighted 
-         graph. It associates each cell with a unique set ID at first. Then it randomly selects a wall, and joins the set of the connected cells if 
-         they are of different set, and makes the dividing wall a passage. It does this for all walls in the grid, until it generates a minimal 
-         spanning tree maze.
+      - Kruskal's Maze Generator is a randomized version of Kruskal’s algorithm, a method for producing a minimal spanning tree for a weighted 
+        graph. It associates each cell with a unique set ID at first. Then it randomly selects a wall, and joins the set of the connected cells if 
+        they are of different set, and makes the dividing wall a passage. It does this for all walls in the grid, until it generates a minimal 
+        spanning tree maze.
 
 3. RandomizedPrims algorithm
-       - This maze generation algorithm is a randomized version of the Prims algorithm. It starts with a grid full of walls, and while there are 
-         walls it randomly selects a wall, sees if any of the two connected cells are unvisited, marks it visited and makes the wall a passage. It 
-         does for all walls in the grid until it generates a maze.
+      - This maze generation algorithm is a randomized version of the Prims algorithm. It starts with a grid full of walls, and while there are 
+        walls it randomly selects a wall, sees if any of the two connected cells are unvisited, marks it visited and makes the wall a passage. It 
+        does for all walls in the grid until it generates a maze.
 
 # Maze solving algorithms
    
