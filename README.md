@@ -1,7 +1,9 @@
 # Project Description:
    - This Project implements several maze generating and solving algorithms.
    - All the solver algorithms utilize multi-threading to solve the maze.
-   - 
+
+![maze](https://user-images.githubusercontent.com/55064602/147198577-1a0caf26-68c8-4482-807e-00493dfee4d2.gif)
+
 # Getting Started:
 - Replace the .txt file int res folder with your text file with the preferred generator and solver you want.
 - Click on generate to generate the maze using the specified generation algorithm.
