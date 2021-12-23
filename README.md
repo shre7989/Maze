@@ -1,3 +1,7 @@
+# Project Description:
+   - This Project implements several maze generating and solving algorithms.
+   - All the solver algorithms utilize multi-threading to solve the maze.
+   - 
 # Getting Started:
 - Replace the .txt file int res folder with your text file with the preferred generator and solver you want.
 - Click on generate to generate the maze using the specified generation algorithm.
@@ -6,10 +10,6 @@
 - Click on the exit button to exit the application.
 - Wait until the maze generation animation finishes before you press the solve button to show the animation for solver.
  
-# Project Description:
-   - This Project implements several maze generating and solving algorithms.
-   - All the solver algorithms utilize multi-threading to solve the maze.
-
 # Maze Generation algorithms
 
 1. Randomized Depth First Search
